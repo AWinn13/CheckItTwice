@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\antho\\source\\repos\\CheckItTwice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BABA91B2-A0F4-450B-8391-A9EA1C71A1E7}|CheckItTwice\\CheckItTwice.csproj|c:\\users\\antho\\source\\repos\\checkittwice\\checkittwice\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BABA91B2-A0F4-450B-8391-A9EA1C71A1E7}|CheckItTwice\\CheckItTwice.csproj|solutionrelative:checkittwice\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\CheckItTwice\\CheckItTwice\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "CheckItTwice\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\antho\\source\\repos\\CheckItTwice\\CheckItTwice\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "CheckItTwice\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T03:03:53.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
